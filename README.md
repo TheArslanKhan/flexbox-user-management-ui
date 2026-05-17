@@ -6,14 +6,7 @@ A Flexbox practice project demonstrating responsive card layouts, alignment, spa
 
 ## Project Previews
 
-### Desktop View
 ![Desktop Preview](screenshot/screenshot1.jpeg)
-
-### Tablet View
-![Mobile Preview](screenshot/screenshot2.jpeg)
-
-### Mobile View
-![Dashboard Preview](screenshot/screenshot3.jpeg)
 
 ---
 
